@@ -1,0 +1,32 @@
+State: 0000; Oracle's output:
+{'0': 100}
+State: 0001; Oracle's output:
+{'0': 100}
+State: 0010; Oracle's output:
+{'0': 100}
+State: 0011; Oracle's output:
+{'0': 100}
+State: 0100; Oracle's output:
+{'0': 100}
+State: 0101; Oracle's output:
+{'0': 100}
+State: 0110; Oracle's output:
+{'0': 100}
+State: 0111; Oracle's output:
+{'1': 100}
+State: 1000; Oracle's output:
+{'0': 100}
+State: 1001; Oracle's output:
+{'0': 100}
+State: 1010; Oracle's output:
+{'1': 100}
+State: 1011; Oracle's output:
+{'0': 100}
+State: 1100; Oracle's output:
+{'0': 100}
+State: 1101; Oracle's output:
+{'0': 100}
+State: 1110; Oracle's output:
+{'1': 100}
+State: 1111; Oracle's output:
+{'0': 100}
